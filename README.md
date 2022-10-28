@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter
-- 👀 I’m interested in data crunching and preparing and cleaning data for reporting
-- 🌱 I’m currently working with python, bigquery, google data studio and Postgresql
+- 👀 I’m interested in data crunching and preparing data for analysis and reporting
+- 🌱 I’m currently working with python, azure, bigquery, google data studio and Postgresql
 - 📫 Reach me peter.midica@gmail.com
 
 <!---
